@@ -1,0 +1,8 @@
+​Diana : 
+Yo eliminé las características P3 (longitud de ciclo), P7 (velocidad) y P9 (longitud de paso) de la tabla, 
+ya que varían según la altura de la persona
+
+En un curso de marcha que estuve realizando con fisioterapeutas aquí en el Hospital Nacional de Parapléjicos, discutimos que en los 
+estudios de marcha muchas veces el lado menos afecto resulta tener registro de valores con mayores desviaciones respecto a la normalidad 
+respecto al lado afecto. Esto se debe a que el lado menos afecto provee un mejor apoyo y una base más estable para permitir el movimiento 
+del lado afecto, mientras que el movimiento del lado menos afecto se ve directamente impactado por el soporte inestable que brinda el lado más afecto. 
